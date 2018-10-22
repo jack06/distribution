@@ -159,7 +159,7 @@ alter table sss_deliveryPlace add  foreign key (mg_ID) references sss_manger(mg_
 alter table sss_manger add foreign key (role_ID) references sss_role(role_ID);
 
 
-insert into sss_order() values ()
+
 
 
 
